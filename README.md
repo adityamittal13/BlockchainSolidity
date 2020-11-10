@@ -1,2 +1,2 @@
 # BlockchainSolidity
-This was some code that was compiled to test out how smart contracts work. 
+This was code that was compiled to test out how smart contracts work. 
